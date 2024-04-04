@@ -1,3 +1,5 @@
+from math import *
+
 def calculer_produit_scalaire(vecteur1, vecteur2):
     produit_scalaire = sum(v1 * v2 for v1, v2 in zip(vecteur1, vecteur2))
     return produit_scalaire
