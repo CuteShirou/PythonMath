@@ -1,4 +1,2 @@
-import Tools.ProduitMatrice
-import Tools.ProduitScalaire
-import Tools.ProduitVectoriel
-
+from Tools import *
+from math import *
