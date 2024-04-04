@@ -2,6 +2,6 @@
 
 Math Project for Gaming Campus
 
-Etudian :
+Etudiant :
 Paul Ferran
 Valentin Gonon--Caetano
