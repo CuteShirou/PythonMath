@@ -72,7 +72,7 @@ print(characterize_isometry(M_anti_rot_line))  # Should print "Anti-rotation par
 print(characterize_isometry(M_sym_line))  # Should print "Symétrie par rapport à une droite"
 
 
-
+# Exerice 2 : Trajectoire d'une nacelle sur une grande roue
 # Paramètres de la simulation
 ωR = pi / 6  # Vitesse angulaire de la grande roue
 ωN = pi / 3  # Vitesse angulaire de la nacelle
